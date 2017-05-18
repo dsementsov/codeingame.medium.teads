@@ -1,0 +1,5 @@
+/Users/denyssementsov/Projects/codeingame.medium.teads/codeingame.medium.teads/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/denyssementsov/Projects/codeingame.medium.teads/codeingame.medium.teads/bin/Debug/codeingame.medium.teads.exe.mdb
+/Users/denyssementsov/Projects/codeingame.medium.teads/codeingame.medium.teads/bin/Debug/codeingame.medium.teads.exe
+/Users/denyssementsov/Projects/codeingame.medium.teads/codeingame.medium.teads/obj/x86/Debug/codeingame.medium.teads.exe
+/Users/denyssementsov/Projects/codeingame.medium.teads/codeingame.medium.teads/obj/x86/Debug/codeingame.medium.teads.exe.mdb

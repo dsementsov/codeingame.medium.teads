@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B6F9B863-8268-4A0E-B4BB-45AD412B2996}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="codeingame.medium.teads/Program.cs">
+    <Files>
+      <File FileName="codeingame.medium.teads/Program.cs" Line="45" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="codeingame.medium.teads/Program.cs" line="109" offsetX="337" offsetY="1620" expression="connectedNodes.Count" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.codeingame.medium.teads PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
